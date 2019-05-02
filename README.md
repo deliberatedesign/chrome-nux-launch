@@ -11,3 +11,17 @@ https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkf
 nitroux.extensions@gmail.com
 
 https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4
+
+
+
+## New Release
+
+```
+# Change version in manifest.json 
+
+{
+    ...
+    "version": "0.0.2",
+    ...
+}
+```
