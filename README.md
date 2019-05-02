@@ -22,8 +22,11 @@ In Chrome Web Store as unlisted extension, [NUX Launch](https://chrome.google.co
 }
 ```
 
-#### 2. Create a zip folder
-Create a zip folder of the extension *excluding the .git folder*
+#### 2. Create new release
+Create a new release in Github releases. Current release is `v0.0.4`.
+
+#### 2. Download release
+Download the latest release zip from Github releases.
 
 #### 3. Upload new version in Webstore Dashboard and Publish
 
