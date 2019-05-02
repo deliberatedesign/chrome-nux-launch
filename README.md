@@ -10,7 +10,7 @@ https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkf
 ## New Release
 
 #### Change version in manifest.json
-```json
+```
 # manifest.json 
 
 {
