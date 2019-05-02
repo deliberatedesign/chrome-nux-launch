@@ -21,7 +21,7 @@ https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkf
 ```
 
 #### Upload new version in Webstore Dashboard and Publish
-nitroux.extensions@gmail.com
+`username: nitroux.extensions@gmail.com`
 
 https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4
 
