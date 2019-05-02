@@ -6,9 +6,7 @@ Useful Nitro UX links created as a Chrome extension.
 ---
 
 ## Install
-In Chrome Web Store as unlisted extension.
-
-https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkfaekhg
+In Chrome Web Store as unlisted extension, [NUX Launch](https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkfaekhg).
 
 
 ## New Release
@@ -28,9 +26,9 @@ https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkf
 Create a zip folder of the extension *excluding the .git folder*
 
 #### 3. Upload new version in Webstore Dashboard and Publish
-`username: nitroux.extensions@gmail.com`
 
-https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4
+Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4)
+`username: nitroux.extensions@gmail.com`
 
 
 ## Release notes
