@@ -20,7 +20,7 @@ https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkf
 }
 ```
 
-#### 2. Create a zip folder
+#### 2. Update a zip folder
 Create a zip folder of the extension *excluding the .git folder*
 
 #### 3. Upload new version in Webstore Dashboard and Publish
