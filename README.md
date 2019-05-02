@@ -9,7 +9,7 @@ https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkf
 
 ## New Release
 
-#### Change version in manifest.json
+#### 1. Change version in manifest.json
 ```
 # manifest.json 
 
@@ -20,7 +20,10 @@ https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkf
 }
 ```
 
-#### Upload new version in Webstore Dashboard and Publish
+#### 2. Create a zip folder
+Create a zip folder of the extension *excluding the .git folder*
+
+#### 3. Upload new version in Webstore Dashboard and Publish
 `username: nitroux.extensions@gmail.com`
 
 https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4
