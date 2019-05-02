@@ -1,6 +1,10 @@
 # NUX Launch
 Useful Nitro UX links created as a Chrome extension.
 
+![](https://lh3.googleusercontent.com/AWiKHt6MBBH9bN-DR93R5bLzY_v3yqbCCg8zym-16kwM3rkxh69vQlked-KQxUrS6g5ibMgx=w640-h400-e365)
+
+---
+
 ## Install
 In Chrome Web Store as unlisted extension.
 
