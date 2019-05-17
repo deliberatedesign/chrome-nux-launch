@@ -36,6 +36,10 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 ## Release notes
 
+#### Release [0.0.3](https://github.com/deliberatedesign/chrome-nux-launch/commit/e30aa30d012b7ac7a1598aa71e62d41797634f07)
+* Update Huddle staging url in Power Apps
+* Updated vpn indicators for Huddle urls
+
 #### Release [0.0.2](https://github.com/deliberatedesign/chrome-nux-launch/commit/1455c63285049258407497c042b1c3884d8b84ac)
 * Changed link to Abstract to go directly to app root
 * CSS delay on link hover animation transition
