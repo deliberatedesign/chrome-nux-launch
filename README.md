@@ -23,7 +23,7 @@ In Chrome Web Store as unlisted extension, [NUX Launch](https://chrome.google.co
 ```
 
 #### 2. Create new release
-Create a new release in Github releases. Current release is `v0.0.2`.
+Create a new release in Github releases. Current release is `v0.0.4`.
 
 #### 2. Download release
 Download the latest release zip from Github releases.
@@ -35,6 +35,9 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 
 ## Release notes
+
+#### Release [0.0.4](https://github.com/deliberatedesign/chrome-nux-launch/commit/420a2410a838e6c95ee0009fd8646bc309a993ea)
+* Include Playgrounds repo in Github section
 
 #### Release [0.0.3](https://github.com/deliberatedesign/chrome-nux-launch/commit/e30aa30d012b7ac7a1598aa71e62d41797634f07)
 * Update Huddle staging url in Power Apps
