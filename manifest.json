@@ -4,7 +4,7 @@
     "name": "NUX Launch",
     "short_name":"NUX_Launch",
     "description": "NUX Launch",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "minimum_chrome_version": "70.0",
     "browser_action": {
         "default_icon": "src/icons/icon.png",
