@@ -36,6 +36,9 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 ## Release notes
 
+#### Release [0.0.8](https://github.com/deliberatedesign/chrome-nux-launch/commit/09c49fbbbeb90ebad8299b166a215ab92a5855c4)
+* Include APP @ Power links in new section "APP"
+
 #### Release [0.0.7](https://github.com/deliberatedesign/chrome-nux-launch/commit/3dcdf57c6161f6b9629731b53c945bcd31374ea1)
 * Include Power Status page and Power Stackoverflow in "Help"
 
