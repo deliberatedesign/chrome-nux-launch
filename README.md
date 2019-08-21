@@ -23,7 +23,7 @@ In Chrome Web Store as unlisted extension, [NUX Launch](https://chrome.google.co
 ```
 
 #### 2. Create new release
-Create a new release in Github releases. Current release is `v0.0.6`.
+Create a new release in Github releases. Current release is `v0.0.7`.
 
 #### 2. Download release
 Download the latest release zip from Github releases.
@@ -35,6 +35,9 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 
 ## Release notes
+
+#### Release [0.0.7](https://github.com/deliberatedesign/chrome-nux-launch/commit/3dcdf57c6161f6b9629731b53c945bcd31374ea1)
+* Include Power Status page and Power Stackoverflow in "Help"
 
 #### Release [0.0.6](https://github.com/deliberatedesign/chrome-nux-launch/commit/74e675aab13e43c6a042d81b133dd9bbe3de9075)
 * Include Power Status page and Power Stackoverflow in "Help"
