@@ -36,8 +36,11 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 ## Release notes
 
+#### Release [0.1.1](https://github.com/deliberatedesign/chrome-nux-launch/commit/0c2297cf5d388c2aaff880c01335accf6b424b6b)
+* Update Styles for Firefox version
+
 #### Release [0.1.0](https://github.com/deliberatedesign/chrome-nux-launch/commit/7c24f4a7a930d0acf78d9758989a5af4224aa819)
-* Include APP @ Power links in new section "APP"
+* Update Nitro APM to Nitro Runway
 
 #### Release [0.0.9](https://github.com/deliberatedesign/chrome-nux-launch/commit/09c49fbbbeb90ebad8299b166a215ab92a5855c4)
 * Include APP @ Power links in new section "APP"
