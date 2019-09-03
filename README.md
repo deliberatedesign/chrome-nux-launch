@@ -13,17 +13,17 @@ In Chrome Web Store as unlisted extension, [NUX Launch](https://chrome.google.co
 
 #### 1. Update version in manifest.json
 ```
-# manifest.json 
+# manifest.json
 
 {
     ...
-    "version": "0.0.2",
+    "version": "0.1.1",
     ...
 }
 ```
 
 #### 2. Create new release
-Create a new release in Github releases. Current release is `v0.0.7`.
+Create a new release in Github releases. Current release is `v0.1.0`.
 
 #### 2. Download release
 Download the latest release zip from Github releases.

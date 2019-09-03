@@ -1,10 +1,9 @@
 {
     "manifest_version": 2,
-
     "name": "NUX Launch",
     "short_name":"NUX_Launch",
     "description": "NUX Launch",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "minimum_chrome_version": "70.0",
     "browser_action": {
         "default_icon": "src/icons/icon.png",
@@ -13,9 +12,9 @@
     },
     "author": "Nitro UX",
     "icons": {
-    "16": "src/icons/icon16.png",
-    "48": "src/icons/icon48.png",
-    "128": "src/icons/icon128.png"
+      "16": "src/icons/icon16.png",
+      "48": "src/icons/icon48.png",
+      "128": "src/icons/icon128.png"
     },
     "permissions": [
       "activeTab",
