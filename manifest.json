@@ -3,12 +3,11 @@
     "name": "NUX Launch",
     "short_name":"NUX_Launch",
     "description": "NUX Launch",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "minimum_chrome_version": "70.0",
     "browser_action": {
         "default_icon": "src/icons/icon.png",
-        "default_popup": "src/html/popup.html",
-        "offline_enabled": false
+        "default_popup": "src/html/popup.html"
     },
     "author": "Nitro UX",
     "icons": {
