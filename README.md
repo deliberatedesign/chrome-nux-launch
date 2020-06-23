@@ -38,8 +38,7 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 #### Release [0.1.2]()
 * Remove unnecessary permissions
-* Prune or replace obsolete links
-* Update CI and Deployment links
+* Prune or replace obsolete CI/Deployment and Zoom Room links
 
 #### Release [0.1.1](https://github.com/deliberatedesign/chrome-nux-launch/commit/0c2297cf5d388c2aaff880c01335accf6b424b6b)
 * Update Styles for Firefox version
