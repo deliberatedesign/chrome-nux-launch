@@ -23,7 +23,7 @@ In Chrome Web Store as unlisted extension, [NUX Launch](https://chrome.google.co
 ```
 
 #### 2. Create new release
-Create a new release in Github releases. Current release is `v0.1.1`.
+Create a new release in Github releases. Current release is `v0.1.2`.
 
 #### 2. Download release
 Download the latest release zip from Github releases.
