@@ -36,7 +36,7 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 ## Release notes
 
-#### Release [0.1.2]()
+#### Release [0.1.2](https://github.com/powerhome/chrome-nux-launch/pull/1)
 * Remove unnecessary permissions
 * Prune or replace obsolete CI/Deployment and Zoom Room links
 
