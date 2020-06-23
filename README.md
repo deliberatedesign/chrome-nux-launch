@@ -17,13 +17,13 @@ In Chrome Web Store as unlisted extension, [NUX Launch](https://chrome.google.co
 
 {
     ...
-    "version": "0.1.2",
+    "version": "0.1.3",
     ...
 }
 ```
 
 #### 2. Create new release
-Create a new release in Github releases. Current release is `v0.1.1`.
+Create a new release in Github releases. Current release is `v0.1.2`.
 
 #### 2. Download release
 Download the latest release zip from Github releases.
@@ -35,6 +35,10 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 
 ## Release notes
+
+#### Release [0.1.2](https://github.com/powerhome/chrome-nux-launch/pull/1)
+* Remove unnecessary permissions
+* Prune or replace obsolete CI/Deployment and Zoom Room links
 
 #### Release [0.1.1](https://github.com/deliberatedesign/chrome-nux-launch/commit/0c2297cf5d388c2aaff880c01335accf6b424b6b)
 * Update Styles for Firefox version
